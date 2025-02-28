@@ -38,4 +38,4 @@ echo "$varsom3";
 
 ?>
 
-<!-- http://localhost:88/02/simplecalc.php -->
+<!-- http://localhost:88/02/Calc/simplecalc.php -->

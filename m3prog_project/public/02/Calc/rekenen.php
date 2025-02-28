@@ -24,4 +24,4 @@ echo "Als je $getal1 afrond dan krijg je: $afgerond2";
 
 ?>
 
-<!-- http://localhost:88/02/rekenen.php -->
+<!-- http://localhost:88/02/Calc/rekenen.php -->

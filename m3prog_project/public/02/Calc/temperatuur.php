@@ -19,4 +19,4 @@ $fahrenheit = 74;
 $kelvin = ($fahrenheit - 32) / 1.8 + 273.15;
 echo "{$fahrenheit} graden Fahrenheit = {$kelvin} Kelvin. <br/>";
 ?>
-<!-- http://localhost:88/02/temperatuur.php -->
+<!-- http://localhost:88/02/Calc/temperatuur.php -->
